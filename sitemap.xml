@@ -1,0 +1,19 @@
+
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://narenmanoharan.com/</loc>
+      <changefreq>weekly</changefreq>
+    </url>
+    <url>
+      <loc>https://narenmanoharan.com/blog</loc>
+      <lastmod>2022-04-11</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+    
+  <url>
+    <loc>https://narenmanoharan.com/blog/cross-functional-design-system-teams</loc>
+    <lastmod>2022-04-11</lastmod>
+    <changefreq>never</changefreq>
+  </url>
+
+  </urlset>
